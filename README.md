@@ -1,3 +1,6 @@
+## Med Scanner
+This repository is a web scraper that searches the World Wide Web in India for pharmacies online for searching medicines and sorting them at the lowest price. The backend utilises OpenMPI for parallel computing and thus reducing time taken for web scraping.
+
 ## Steps to run this program
 
 1. Create a virtual environment:
